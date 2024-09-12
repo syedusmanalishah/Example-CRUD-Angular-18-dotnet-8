@@ -1,0 +1,7 @@
+api/bin
+api/obj
+api/.vscode
+view/.vscode
+view/.angular
+view/node_modules
+view/package-lock.json
