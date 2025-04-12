@@ -11,7 +11,7 @@ import { ProductService } from './Product.service'
           <table class="table table-striped table-hover">
             <thead>
               <tr>
-                <th>Id</th>
+                <th>Idchnage</th>
                 <th>Name</th>
                 <th>Price</th>
                 <th>Actions</th>
