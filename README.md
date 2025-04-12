@@ -1,4 +1,4 @@
-# Example-CRUD-Angular-18-dotnet-8
+# Example-CRUD-Angular-18-dotnet-8 update
 - The example shows how to Building an Angular CRUD App with a .NET API and using MySQL as a database.
 - The article of this repository https://blog.stackpuz.com/building-an-angular-crud-app-with-a-net-api
 - To find more resources, please visit https://stackpuz.com
